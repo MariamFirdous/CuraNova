@@ -39,7 +39,13 @@ Gradle - Build automation
 
 
 📸 Screenshots
-Coming soon!
+<div align="center">
+  <img src="screenshots/home_screen.png" width="250" alt="Home Screen"/>
+  <img src="screenshots/report_analysis.png" width="250" alt="Report Analysis"/>
+  <img src="screenshots/results_screen.png" width="250" alt="Results"/>
+</div>
+
+*CuraNova makes medical reports easy to understand*
 
 🤝 Contributing
 Contributions are welcome! If you'd like to contribute:
