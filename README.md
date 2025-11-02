@@ -70,6 +70,8 @@ GitHub: @MariamFirdous
 Have questions or suggestions? Feel free to reach out!
 
 Email: mariamfirdous17@gmail.com
+
+
 Project Link: https://github.com/MariamFirdous/CuraNova
 
 
